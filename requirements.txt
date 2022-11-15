@@ -1,0 +1,3 @@
+gradio==3.9.1
+lightning
+galai@ https://github.com/paperswithcode/galai/archive/refs/tags/1.0.0.tar.gz
